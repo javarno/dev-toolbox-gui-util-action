@@ -1,7 +1,7 @@
 <!--
   - MIT License
   -
-  - Copyright © 2020 dev-toolbox.org
+  - Copyright © 2020-2023 dev-toolbox.org
   -
   - Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files
   - (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish,
@@ -23,6 +23,7 @@ Implementation of a background task for JavaFX that performs all task listeners 
 
 history
 -------
+- v0.6.0 2023/02/03 : java 17
 - v0.5.1 2020/12/05 : upgrade util-task to v0.8.3
 - v0.5.0 2020/04/23 : java 14
 - previous versions : history lost :)
