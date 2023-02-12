@@ -23,6 +23,7 @@ Implementation of a background task for JavaFX that performs all task listeners 
 
 history
 -------
+- v0.6.0 2023/02/12 : upgrade to dev-toolbox-util-task v0.10.0
 - v0.6.0 2023/02/03 : java 17
 - v0.5.1 2020/12/05 : upgrade util-task to v0.8.3
 - v0.5.0 2020/04/23 : java 14
