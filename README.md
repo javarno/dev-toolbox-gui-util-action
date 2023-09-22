@@ -23,10 +23,11 @@ Implementation of a background task for JavaFX that performs all task listeners 
 
 history
 -------
-- v0.8.0 2023/09/20 : upgraded [util-task](https://github.com/javarno/dev-toolbox-util-task) to v0.11.0
-- v0.7.1 2023/02/12 : upgraded [util-task](https://github.com/javarno/dev-toolbox-util-task) to v0.10.1
-- v0.7.0 2023/02/12 : upgraded [util-task](https://github.com/javarno/dev-toolbox-util-task) to v0.10.0
-- v0.6.0 2023/02/03 : java 17
-- v0.5.1 2020/12/05 : upgrade util-task to v0.8.3
-- v0.5.0 2020/04/23 : java 14
+- v0.9.0 2023-09-23 : java 21 / javaFX v21
+- v0.8.0 2023-09-20 : upgraded [util-task](https://github.com/javarno/dev-toolbox-util-task) to v0.11.0
+- v0.7.1 2023-02-12 : upgraded [util-task](https://github.com/javarno/dev-toolbox-util-task) to v0.10.1
+- v0.7.0 2023-02-12 : upgraded [util-task](https://github.com/javarno/dev-toolbox-util-task) to v0.10.0
+- v0.6.0 2023-02-03 : java 17
+- v0.5.1 2020-12-05 : upgrade util-task to v0.8.3
+- v0.5.0 2020-04-23 : java 14
 - previous versions : history lost :)
