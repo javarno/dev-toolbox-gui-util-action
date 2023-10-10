@@ -63,8 +63,8 @@ public abstract class BackgroundAction extends AsynchronousTask {
 		return Platform.isFxApplicationThread();
 	}
 
-	@Override
-    protected void sendToResultThread(final Runnable runnable) {
+    @Override
+    protected void executeInResultThread(Runnable runnable) {
 		 Platform.runLater(runnable);
 	}
 }
